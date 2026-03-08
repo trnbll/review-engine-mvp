@@ -1,0 +1,12 @@
+[
+  {"name": "Dental TLC", "url": "/biz/dental-tlc-atlanta", "rating": 4.3, "reviews": 346, "city": "Atlanta"},
+  {"name": "Brookhaven Dental Associates", "url": "/biz/brookhaven-dental-associates-atlanta", "rating": 4.2, "reviews": 148, "city": "Atlanta"},
+  {"name": "Heart of Vinings Dentistry", "url": "/biz/heart-of-vinings-dentistry-atlanta", "rating": 4.5, "reviews": 145, "city": "Atlanta"},
+  {"name": "Atlanta Dental Spa", "url": "/biz/atlanta-dental-spa-atlanta", "rating": 4.4, "reviews": 145, "city": "Buckhead"},
+  {"name": "David McNay, DDS", "url": "/biz/david-mcnay-dds-atlanta", "rating": 4.8, "reviews": 140, "city": "Atlanta"},
+  {"name": "Tend Dental Ponce City Market", "url": "/biz/tend-dental-ponce-city-market-atlanta", "rating": 4.0, "reviews": 109, "city": "Atlanta"},
+  {"name": "Modern Dental", "url": "/biz/modern-dental-atlanta", "rating": 4.3, "reviews": 96, "city": "Old Fourth Ward"},
+  {"name": "Inman Park Dentistry", "url": "/biz/inman-park-dentistry-atlanta", "rating": 4.2, "reviews": 90, "city": "Inman Park"},
+  {"name": "Blue Creek Dental", "url": "/biz/blue-creek-dental-decatur", "rating": 4.5, "reviews": 73, "city": "Decatur"},
+  {"name": "Executive Park Dentistry", "url": "/biz/executive-park-dentistry-atlanta", "rating": 4.4, "reviews": 67, "city": "Atlanta"}
+]
